@@ -2,7 +2,7 @@
 name: UI Component
 about: A new user interface component
 title: ''
-labels: enhancement
+labels: enhancement, ui component
 assignees: jhorback
 
 ---
