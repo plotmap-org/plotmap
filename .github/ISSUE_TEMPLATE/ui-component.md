@@ -7,17 +7,16 @@ assignees: jhorback
 
 ---
 
-### Description
+## Description
 Add a brief description of the UI Component.
 
-### Acceptance Criteria
-[acceptance-criteria]: #acceptance-criteria
+## Acceptance Criteria
  - [ ] List acceptance criteria
 
-### Development Tasks
+## Development Tasks
 - [ ] Add tests
 - [ ] Supports dark-theme
 - [ ] Update documentation
 
-### Implementation Details
+## Implementation Details
 Add detailed implementation notes.

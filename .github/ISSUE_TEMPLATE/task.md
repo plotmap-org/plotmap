@@ -7,16 +7,15 @@ assignees: jhorback
 
 ---
 
-### Description
+## Description
 Add a brief description of the task.
 
-### Acceptance Criteria
-[acceptance-criteria]: #acceptance-criteria
+## Acceptance Criteria
  - [ ] List acceptance criteria
 
-### Development Tasks
+## Development Tasks
 - [ ] Add tests
 - [ ] Update documentation
 
-### Implementation Details
+## Implementation Details
 Add detailed implementation notes.
