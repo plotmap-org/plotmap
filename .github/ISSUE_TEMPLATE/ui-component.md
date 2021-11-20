@@ -15,6 +15,7 @@ Add a brief description of the UI Component.
 
 ## Development Tasks
 - [ ] Add tests
+- [ ] Has design file
 - [ ] Supports dark-theme
 - [ ] Update documentation
 
